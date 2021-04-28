@@ -12,10 +12,11 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The best app to follow the euro 2020 of football.
+app_description                           : EURO FOOTBALL 2020 is the best way to follow the EURO 2020 of football in 2021, follow your favorite team through the euro 2020. The Euro 2020 will happen in 12 European cities including London, Munich, Rome, Baku, Saint Petersburg, Budapest, Bucharest, Amsterdam, Bilbao, Glasgow, Dublin, and Copenhagen, and will take place between 11 June and 11 July 2021, it was postponed due to the COVID 19 crisis.
+You can follow all the teams between Austria, Belgium, Croatia, Czech Republic, Denmark, England, Finland, France, Germany, Hungary, Italy, Netherland, North Macedonia, Poland, Portugal, Russia, Scotland, Slovakia, Spain, Sweden, Switzerland, Turkey, Ukraine, Wales. This app is a non official app made by a football fan.
+The opening game will involved Turkey and Italy and will be hosted in Rome at the Stadio Olimpico.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
-
 
 
 # Information About Yourself
