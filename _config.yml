@@ -35,32 +35,32 @@ features                                  :
 
   - title                                 : Live score push notifications
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Next game countdown widget
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Games results
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
   - title                                 : Last news about the EURO 2020 of football
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Fixtures
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Dark mode compatible
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Tournament table
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Kickoff notifications
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
   - title                                 : Apple Watch complication
     description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    fontawesome_icon_name                 : futbol # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 # Theme Settings
