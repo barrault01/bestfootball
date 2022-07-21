@@ -12,7 +12,8 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : EURO FOOTBALL 2020 is the best way to follow the EURO 2020 of football in 2021, follow your favorite team through the euro 2020. The Euro 2020 will happen in 12 European cities including London, Munich, Rome, Baku, Saint Petersburg, Budapest, Bucharest, Amsterdam, Bilbao, Glasgow, Dublin, and Copenhagen, and will take place between 11 June and 11 July 2021, it was postponed due to the COVID 19 crisis.
+app_description                           : BestFootball - 2022 in Qatar is the best way, to follow the football world cup in 2022, follow your favorite team through 2022 cup with BestFootball - 2022 in Qatar.
+
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
